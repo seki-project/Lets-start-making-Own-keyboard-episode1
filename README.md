@@ -17,7 +17,7 @@
 </p>
 
 
-（https://biacco42.hatenablog.com/entry/2020/05/08/093000）　　　　から画像をお借りしました。（このサイトいいよ）　　
+（https://biacco42.hatenablog.com/entry/2020/05/08/093000)　　から画像をお借りしました。（このサイトいいよ）　　
 
 
 
