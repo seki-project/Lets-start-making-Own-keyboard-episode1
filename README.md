@@ -45,7 +45,7 @@ amazonや楽天などにも多くのキーキャップがありますが、私�
 ・[TALPKEYBOARD](https://talpkeyboard.net/)　（もうオシャレすぎる！　商品をお店で厳選してるのでエラー品がほとんどなく、しかも安価にパーツを買うことができます）
 
 
-
-
-
+<p align="center">
+<img src="" width="600px">
+</p>
 
