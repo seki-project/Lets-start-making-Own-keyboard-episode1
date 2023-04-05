@@ -46,6 +46,6 @@ amazonや楽天などにも多くのキーキャップがありますが、私�
 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/85538853/230117216-dffa797a-2b48-4b3d-a52e-b5607af5e110.jpg" width="600px">
+<img src="https://user-images.githubusercontent.com/85538853/230118015-f41304e6-3e32-4dcf-966f-33f42d436fc4.jpg" width="300px">
 </p>
 
