@@ -5,5 +5,5 @@
 なので、まずは自作キーボード（本体）についての解説になります。
 ちょっとキーボードを分解してっと……
 
+<img src="https://user-images.githubusercontent.com/85538853/230086537-c8302542-992f-49f9-9ab8-072b934c0163.png" width="320px">
 
-![20200503204306](https://user-images.githubusercontent.com/85538853/230086537-c8302542-992f-49f9-9ab8-072b934c0163.png)
